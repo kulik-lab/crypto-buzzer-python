@@ -3,8 +3,8 @@ import socket
 import time
 
 
-public_key = '567126bdd87d83000c1b7d9ef16996cbfbee10db5860cd90ad96cee56261a98c '
-secret_key = '7bd10b2b39339d8ae655c8a465b0ba34e5e8b3874e90f2bb1d5aa3271c516fff830ece1190cb5b702a0d4d9395e35e26624efd8795fa58ef5cb4b96629c1e7b4'
+public_key = '5671298c '
+secret_key = '7bd7b4'
 
 client = shrimpy.ShrimpyApiClient(public_key, secret_key)
 
